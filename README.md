@@ -2,7 +2,7 @@
 
 ### ✏️ Website de uma Agência de Turismo com CSS Flexbox (Website of a Tourism Agency with CSS Flexbox) 📚⏳🤔😉
 
-Neste repositório contém Vários exercícios relacionado aos fundamentos do Flexbox incluindo um projeto final completo, onde consiste na criação de uma página inteira utilizando HTML+CSS (Principalmente Flexbox) (Several lessons related to Flexbox fundamentals including a complete final project, which consists of creating an entire page using HTML+CSS (Mainly Flexbox)
+Neste repositório contém Vários exercícios relacionado aos fundamentos do Flexbox incluindo um projeto final completo, onde consiste na criação de uma página inteira utilizando HTML+CSS (Principalmente Flexbox) (This repository contains several exercises related to the fundamentals of Flexbox including a complete final project, which consists of creating an entire page using HTML+CSS (Mainly Flexbox))
 
 ### Links úteis (Useful links)
 + https://dio.me (Bootcamp in mode Courses)
